@@ -4,7 +4,7 @@
   * So you can use this tool to arrange them in specific directory according to their extension
   * eg : .txt .pdf .doc will store into document directory so on.
 
-
+## Author : Mritunjay Pratap Singhh
 ## tree : intendation between parent and child is tree view
 ## help : displayed the all cmd for run the script
      * node main.js tree
